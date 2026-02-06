@@ -20,7 +20,6 @@ work with me, let’s get connected or contact me
 ---
 
 ### 📫 Hubungi Saya
-- **Instagram:** [Arif Ihsaan](https://www.instagram.com/arifihsaan_/)
 - **LinkedIn:** [Arif Ihsaan](www.linkedin.com/in/arifihsaan)
 - **Email:** [arifihsaan](mailto:arifihsanrayhandanis@gmail.com)
 
