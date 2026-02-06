@@ -6,11 +6,10 @@
 Recent Graduate in Record and Archive Management, specializing in Data Governance and Integrity. I leverage 1.5+ years of practical Document Control experience and technical Data Science skills (Python/SQL) to build reliable, responsible predictive models. Interested in collaboration? Contact me if you’re interested to
 work with me, let’s get connected or contact me
 
-* 🎂 **Age:** 22 Tahun 
-* 💼 **Job:** Document Controller
+* 💼 **Job:** Data Analyst
 * 🏫 **Campus:** Universitas Indonesia 
 * 🎨 **Hobby:** Gaming
-* 🎮 **Favorite Game:**
+  
   <br/>
   <img src="https://img.shields.io/badge/Mobile%20Legends-F3AE10?style=for-the-badge&logo=moblegend&logoColor=white" />
   <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
