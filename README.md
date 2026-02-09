@@ -1,4 +1,6 @@
 # 💫 About Me:
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2gwZmVncmZ2YWNsNzg1bmgzZGxndTVoZno5MXUxczNhMHRsdnVuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="200">
+
 👋 My name is Arif Ihsan
 * 💼 **Job:** Data Analyst
 * 🏫 **Campus:** Indonesia University
